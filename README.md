@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reluda
 - 👀 I’m interested in making simple and useful applications for anyone to use.
-- 🌱 I’m currently learning GO and ML
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking for employment as a junior dev somewhere.
 - 📫 How to reach me RELUDA64@gmail.com 
 
