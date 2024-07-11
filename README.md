@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about creating simple and useful applications for everyone to enjoy.
 
 ## 👀 Interests
-- **Application Development:** Crafting easy-to-use applications that make a difference.
+- **Application Development:** Crafting easy-to-use applications.
 - **Continuous Learning:** Currently diving into the world of GO.
 
 ## 🌱 Currently Learning
