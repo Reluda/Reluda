@@ -13,8 +13,9 @@ I'm expanding my skillset by learning GO, aiming to enhance my development toolk
 I'm actively seeking employment. If you're hiring or know of any opportunities, let's connect!
 
 ## 📫 Get in Touch
-- **Email:** [RELUDA64@gmail.com](mailto:RELUDA64@gmail.com)
+- **Email:** [DR@RELUDA64.com](mailto:DR@RELUDA64.com)
 - **LeetCode:** [leetcode.com/u/DR64/](https://leetcode.com/u/DR64/)
+- **Website:** [RELUDA64](https://RELUDA64.com)
 
 ---
 
